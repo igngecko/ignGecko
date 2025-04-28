@@ -1,5 +1,5 @@
 <h1 align="left">Hello, my name is Gecko! 👋</h1>
-<h3 align="left">A 20 year old full stack developer and manager with 5+ years of experience Minecraft plugin and Discord bot development as well as in management.</h3>
+<h3 align="left">A 20 year old full stack developer and setup specialist with 5+ years of experience Minecraft Plugin Setups.</h3>
 
 * 👨‍💻 Portfolio: [https://www.behance.net/igngecko](https://www.behance.net/igngecko).
 
